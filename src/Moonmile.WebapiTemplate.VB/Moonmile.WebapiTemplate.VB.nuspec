@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Moonmile.WebapiTemplate.VB</id>
+    <version>0.1.0</version>
+    <title>WebAPI project by Visual Basic</title>
+    <authors>Tomoaki Masuda</authors>
+    <owners>Tomoaki Masuda</owners>
+    <licenseUrl>http://moonmile.net/</licenseUrl>
+    <projectUrl>http://moonmile.net/</projectUrl>
+    <iconUrl>http://moonmile.net/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Creates Web API project by Visual Basic.
+    </description>
+    <releaseNotes>
+      sample version.
+    </releaseNotes>
+    <copyright>Copyright moonmile solutions</copyright>
+    <tags>WebAPI VB</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+      </metadata>
+</package>

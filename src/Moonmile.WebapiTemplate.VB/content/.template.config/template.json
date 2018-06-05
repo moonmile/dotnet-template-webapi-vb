@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tomoaki Masuda",
+    "classifications": [ "Web", "WebAPI" ], 
+    "name": "ASP.NET Core Web API via Visual Basic",
+    "identity": "Moonmile.WebapiTemplate.VB",         
+    "groupIdentity":"Moonmile.WebapiTemplate",
+    "shortName": "webapivb",                   
+    "tags": {
+      "language": "VB",         
+      "type":"project"
+    },
+    "sourceName": "Moonmile.WebapiTemplate.VB",
+    "preferNameDirectory":true  
+  }
