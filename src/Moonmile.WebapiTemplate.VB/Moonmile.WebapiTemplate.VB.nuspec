@@ -6,8 +6,8 @@
     <title>WebAPI project by Visual Basic</title>
     <authors>Tomoaki Masuda</authors>
     <owners>Tomoaki Masuda</owners>
-    <licenseUrl>http://moonmile.net/</licenseUrl>
-    <projectUrl>http://moonmile.net/</projectUrl>
+    <licenseUrl>https://github.com/moonmile/dotnet-template-webapi-vb</licenseUrl>
+    <projectUrl>https://github.com/moonmile/dotnet-template-webapi-vb</projectUrl>
     <iconUrl>http://moonmile.net/</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
